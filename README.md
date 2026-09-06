@@ -231,9 +231,6 @@ task compressed-linux
 cargo build --release
 ```
 
-## Profiling
+## Acknowledgements
 
-```bash
-cargo build --profile profiling
-samply record ./target/profiling/kadent
-```
+All crates & fonts used in this project are listed in "Acknowledgements" menu in the app.
