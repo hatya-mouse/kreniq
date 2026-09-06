@@ -27,7 +27,7 @@ Kadent is a DAW (Digital Audio Workstation) software. It supports building synth
 - [KASL Sample Programs](#kasl-sample-programs)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Profiling](#profiling)
+- [Acknowledgements](#acknowledgements)
 
 ## Features
 
